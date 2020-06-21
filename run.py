@@ -6,7 +6,7 @@ def main():
         os.mkdir('/sdcard/virus')
     except OSError:
         pass
-        print('/nKetik Y bila ingin melanjutkan')
+        print('\nKetik Y bila ingin melanjutkan')
     w = input ('pilih:')
     
     if 'Y' or 'y' in w: 
