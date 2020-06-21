@@ -7,7 +7,7 @@ def main():
     except OSError:
         pass
         print('\nVirtex Maker By NikkiXploit')
-        print('Ketik Y bila ingin melanjutkan')
+        print('\nKetik Y bila ingin melanjutkan')
     w = input ('pilih:')
     
     if 'Y' or 'y' in w: 
