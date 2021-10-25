@@ -6,6 +6,6 @@ $ pkg update && pkg upgrade<br>
 $ pkg install git<br>
 $ pkg install python<br>
 $ pkg install wget<br>
-$ git clone https://github.com/shansekai/wa-virtex/<br>
+$ git clone https://github.com/sansekai/wa-virtex/<br>
 $ cd wa-virtex<br>
 $ python run.py
